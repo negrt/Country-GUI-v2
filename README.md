@@ -16,7 +16,7 @@ The application reads country dataset JSON files, stores the data into ram using
 #### Application on Start Up
 ![Image of Country Start Up](https://github.com/negrt/cv/blob/master/images/CountryStartUp.PNG?raw=true)
 
-#### Application when Country Selected - (Binding data to textboxes)
+#### Application when Country Selected - (Binding listbox selection to textboxes)
 ![Image of Country Selected](https://github.com/negrt/cv/blob/master/images/CountrySelected.PNG?raw=true)
 
 #### Menu Bar Import Button - Drop Down Open File Button
