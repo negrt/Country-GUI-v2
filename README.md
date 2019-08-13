@@ -27,3 +27,6 @@ The application reads country dataset JSON files, stores the data into ram using
 
 #### Menu Bar Help Button - Drop down About App Button
 ![Image of Country About App](https://github.com/negrt/cv/blob/master/images/CountryAboutApp.PNG?raw=true)
+
+# Notice
+This application uses a separate Dynamic Link Library. Download CountryDynamicLinkLibrary repository to run this application appropriately.
