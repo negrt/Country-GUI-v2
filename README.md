@@ -1,4 +1,4 @@
-# Country-GUI-v2
+# CountryDataSearchTool-v2
 A C# desktop application that reads data SQL server (express).
 
 # What I learned
