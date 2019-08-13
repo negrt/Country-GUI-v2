@@ -18,3 +18,12 @@ The application reads country dataset JSON file, stores it into ram using a List
 
 #### Country Selected
 ![Image of Country Selected](https://github.com/negrt/cv/blob/master/images/CountrySelected.PNG?raw=true)
+
+#### Menu Bar Import Button - Open File
+![Image of Country Open File Dialog](https://github.com/negrt/cv/blob/master/images/CountryOpenFileDialog.PNG?raw=true)
+
+#### New File Opened
+![Image of Country New File Opened](https://github.com/negrt/cv/blob/master/images/CountrySelected.PNG?raw=true)
+
+#### Menu Bar Help - About App
+![Image of Country About App](https://github.com/negrt/cv/blob/master/images/CountrySelected.PNG?raw=true)
