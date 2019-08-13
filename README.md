@@ -1,5 +1,5 @@
 # CountryDataSearchTool-v2
-A C# desktop application that reads data SQL server (express).
+A C# desktop application that reads data from SQL server (express).
 
 # What I learned
 * How to use a SQL database to display datasets
