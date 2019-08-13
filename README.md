@@ -1,5 +1,5 @@
 # CountryDataSearchTool-v2
-A C# desktop application that reads and inserts data on a SQL server (express).
+A C# WPF desktop application that reads and inserts data on a SQL server (express).
 
 # What I learned
 * How to use a SQL database to display datasets
