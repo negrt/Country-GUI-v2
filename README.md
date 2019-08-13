@@ -10,7 +10,7 @@ A C# desktop application that reads and inserts data on a SQL server (express).
 * ListBox data binding with TextBoxes
 
 # Images and Description
-The application reads country dataset JSON file, stores it into ram using a List of countries, then inserts the data to a SQL server database. The application also has the ability to read other country datasets, via OpenFileDialog obj. Before storing the new country dataset file to the database, the database is cleared, via delete statement, and then the new data is stored in the database.
+The application reads country dataset JSON files, stores the data into ram using a List of countries, then inserts the data to a SQL server database. The application also has the ability to read other country datasets, via OpenFileDialog obj. Before storing the new country dataset file to the database, the database is cleared, via delete statement, and then the new data is stored in the database.
 
 ## Images
 #### Application on Start Up
