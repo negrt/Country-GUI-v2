@@ -4,7 +4,7 @@ A C# WPF desktop application that reads and inserts data on a SQL server (expres
 # What I learned
 * How to use a SQL database to display datasets
 * How to Insert data from a JSON file to a SQL database
-* How to Remove data from a SQL databse in C#
+* How to Remove data from a SQL database in C#
 * OpenFileDialog
 * Create a menu bar, with file drop down, exit button, help drop down, about me button
 * ListBox data binding with TextBoxes
